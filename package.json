@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Keifeh/node-wyreone.uk#readme",
   "dependencies": {
+    "dotenv": "^16.3.1",
     "express": "^4.18.2",
     "pg": "^8.11.3"
   }
